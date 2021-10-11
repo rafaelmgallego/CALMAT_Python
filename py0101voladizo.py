@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Autores:
+Alejandro E. Martínez Castro, R. Gallego, E. Puertas, F. Ávila. 
+
+amcastro@ugr.es
+
+Licencia Creative-Commons CC BY-NC-ND 3.0 ES
+"""
+
 #===============================================================
 #Librerías y funciones necesarias
 #===============================================================
