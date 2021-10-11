@@ -2,7 +2,6 @@
 #Librerías y funciones necesarias
 #===============================================================
 
-from __future__ import division #Para no tener problemas en la división entre enteros
 import numpy as np              #Para importar la librería numpy
 import matplotlib.pyplot as plt #Para dibujar
 
